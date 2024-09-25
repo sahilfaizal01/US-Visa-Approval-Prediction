@@ -4,6 +4,19 @@ End-to-End MLOps
 ## Problem Statement
 Given certain set of feature such as continent, education, job_experience, training, employment, current age etc.
 
+## Tools Used
+* MongoDB Atlas Database
+* AWS
+* Evidently AI (MLOps Tool)
+* Anaconda
+* VSCode
+* Jupyter
+
+## Libraries and Frameworks Used
+* Scikit-Learn
+* Fast-API
+* Matplotlib, Seaborn, Plotly etc.
+
 ## Some Features:
 * case_id:- ID of each visa application
 * continent:- Information of continent the employee
