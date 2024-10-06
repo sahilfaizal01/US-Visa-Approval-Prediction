@@ -45,3 +45,9 @@ ML powered solution
 3. Fit the ML classification algorithm and finds out which one performs better
 4. Select the top few and tune hyperparameters
 5. Select the best model based on desired metrics
+
+# Worflow
+1) Constants
+2) Entity
+3) Components
+4) Pipeline
